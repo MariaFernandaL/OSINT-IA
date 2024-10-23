@@ -19,3 +19,12 @@ This is an open-source tool that leverages AI techniques to perform OSINT (Open 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/DaruinHerrera/OSINT-IA]
+2. Enter in the project
+   ```bash
+   cd OSINT-IA
+3. Create and active your enviroment
+   ```bash
+   python -m venv your_enviroment
+   ```
+   ```bash
+   .venv/Scripts/activate
