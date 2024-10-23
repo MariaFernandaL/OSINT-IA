@@ -8,7 +8,6 @@ This is an open-source tool that leverages AI techniques to perform OSINT (Open 
 
 **Technologies Used**
 * Python
-```
 Popular for data science and machine learning projects due to its simple syntax, large community and a large number of specialized libraries.
 ```
 * R
